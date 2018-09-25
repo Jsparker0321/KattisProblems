@@ -20,7 +20,7 @@ public class Bijele {
 		knights = 2 - knights;
 		pawns = 8 - pawns;
 		
-		System.out.println(kings + "" + queens + " " + rooks + " " + bishops + " " + knights + " " + pawns);
+		System.out.println(kings + " " + queens + " " + rooks + " " + bishops + " " + knights + " " + pawns);
 	}
 
 }
